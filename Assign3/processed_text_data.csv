@@ -1,0 +1,4 @@
+text,label,cleaned_text,no_stopwords,lemmatized_text,encoded_label
+The cat is loafing on the mat!,animal,the cat is loafing on the mat,cat loafing mat,cat loafing mat,0
+Dogs are sitting on the mat.,animal,dogs are sitting on the mat,dogs sitting mat,dog sitting mat,0
+The cat and dog are friends.,relationship,the cat and dog are friends,cat dog friends,cat dog friend,1
